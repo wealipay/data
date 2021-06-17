@@ -1,0 +1,101 @@
+{
+   "activity": [
+      {
+         "id": 1,
+         "pid": "邀请有奖",
+         "title": "哔哩哔哩邀请新人有奖活动",
+         "des": "合作共赢，红包50元，对半平分！",
+         "author": "龙阁",
+         "year": 2021,
+         "date": "06-11",
+         "img": "/images/list/1/1.jpg",
+         "step": [
+            {
+               "des": "方式一： 通过浏览器/微信/QQ/支付宝扫描上方的二维码，输入手机号后下载哔哩哔哩app软件，并安装。",
+               "image": "/images/list/1/invite.png"
+            },
+            {
+               "des": "方式二：安装成功后填写邀请码 CLKNPSA 即可，有什么问题可相互联系！",
+               "image": "/images/list/1/CLKNPSA.jpg"
+            }
+         ],
+         "video": [
+            {
+               "cover": "y",
+               "src": "g"
+            }
+         ],
+         "invite": 1,
+         "money": 0,
+         "self": 0,
+         "hot": 1,
+         "new": 1,
+         "amount": [
+            {
+               "image": "/images/list/1/money.png",
+               "des": "通过扫描下方指定二维码，或者填写CLKNPSA邀请码成功完成新人注册，并按照详细规则完成所有任务，双方可获得总共50元，互帮互助，互利共赢，平分赏金，一人25元！\n\n若不知道应该完成什么任务，可进群联系管理！"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "pid": "支付宝",
+         "title": "淘宝签到领红包",
+         "des": "每天签到领红包，商品金额大于等于红包即可使用",
+         "author": "龙阁",
+         "year": 2021,
+         "date": "06-11",
+         "img": "/images/list/2/1.jpg",
+         "rule": [
+            {
+               "des": "每天都可以签到领红包，红包的有效期为一天，商品金额只要大于等于红包金额即可抵扣！",
+               "image": "/images/list/2/2.jpg"
+            }
+         ],
+         "video": [
+            {
+               "cover": "/images/list/2/cover.jpg",
+               "src": "/images/list/2/video.mp4"
+            }
+         ],
+         "invite": 0,
+         "money": 0,
+         "self": 1,
+         "hot": 1,
+         "new": 1,
+         "amount": [
+            {
+               "image": "/images/list/2/money.png",
+               "des": "通过多次测试，淘宝的签到领红包，最高2.88元！"
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "pid": "自助服务",
+         "title": "中国银行话费充值优惠活动",
+         "des": "每月一次，30元起充，优惠金额随机！",
+         "author": "龙阁",
+         "year": 2021,
+         "date": "06-11",
+         "img": "/images/list/3/1.jpg",
+         "video": [
+            {
+               "cover": "/images/list/3/cover.jpg",
+               "src": "/images/list/3/video.mp4"
+            }
+         ],
+         "invite": 0,
+         "money": 0,
+         "self": 1,
+         "hot": 1,
+         "new": 1,
+         "amount": [
+            {
+               "image": "/images/list/3/money.png",
+               "des": "中国银行话费充值优惠，每个月只有一次，一般签到能领3元优惠券，充值后又会随机立减，本次优惠了5元！"
+            }
+         ]
+      }
+   ]
+}
